@@ -2,7 +2,7 @@
 
 Join me for a festive coding journey with Advent of Code 2024! 🎄 
 
-[This playlist features 25 videos](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po), one for each day of December, where we tackle exciting programming puzzles together. 
+[This playlist will features 25 videos](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po), one for each day of December, where we tackle exciting programming puzzles together. 
 
 
 Designed for coders of all skill levels, each video focuses on:
