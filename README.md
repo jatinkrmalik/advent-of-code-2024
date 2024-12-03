@@ -28,3 +28,8 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ![day_2_thumbnail](https://github.com/user-attachments/assets/ea525d21-e24b-4265-9471-0d36b54bda4f)
 
 ## Day 2 Explained: https://youtu.be/djOQswLN7rg
+
+# Day 3 - Mull It Over
+![day-3](https://github.com/user-attachments/assets/d8baf007-3922-46ba-9a46-694244e312e3)
+
+## Day 3 Explained: https://youtu.be/a5DIpXV85P4
