@@ -4,7 +4,6 @@ Join me for a festive coding journey with Advent of Code 2024! 🎄
 
 [This playlist will features 25 videos](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po), one for each day of December, where we tackle exciting programming puzzles together. 
 
-
 Designed for coders of all skill levels, each video focuses on:
 
 - 🧩 Puzzle Breakdown: Understanding the story and problem of the day.
@@ -14,4 +13,5 @@ Designed for coders of all skill levels, each video focuses on:
 
 Whether you're here to learn, practice, or simply enjoy the thrill of problem-solving, this playlist is your ultimate guide to conquering Advent of Code 2024! 
 
-[Subscribe to stay updated](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po)) and collect all 50 stars with me. 🎁
+1. Discuss your puzzle approach and code samples with me on Twitter/X: [@jatinkrmalik](https://x.com/jatinkrmalik)
+2. [Subscribe to stay updated](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po) and collect all 50 stars with me. 🎁
