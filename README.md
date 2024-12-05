@@ -38,3 +38,8 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ![day-4B](https://github.com/user-attachments/assets/b1f07b7f-cb4e-4748-9610-e9898fedcecf)
 
 ## Day 4 Explained: https://youtu.be/NzhvJ0O70yY
+
+## Day 5 - Print Queue
+![day_5_a](https://github.com/user-attachments/assets/311be4c8-f2e2-4b25-806c-0a70a563d969)
+
+## Day 5 Explained: https://youtu.be/61tAT5Xi4Zg?si=VAPLxk9pNxKuqvqr
