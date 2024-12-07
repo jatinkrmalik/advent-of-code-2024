@@ -35,7 +35,7 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ## Day 3 Explained: https://youtu.be/a5DIpXV85P4
 
 ## Day 4 - Ceres Search
-![day-4B](https://github.com/user-attachments/assets/b1f07b7f-cb4e-4748-9610-e9898fedcecf)
+![day-4](https://github.com/user-attachments/assets/da76e45d-413b-4099-b43b-ced17053938a)
 
 ## Day 4 Explained: https://youtu.be/NzhvJ0O70yY
 
