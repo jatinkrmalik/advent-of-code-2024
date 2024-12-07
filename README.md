@@ -48,3 +48,8 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ![yt-day-6B (Large)](https://github.com/user-attachments/assets/34e84945-26b0-4ea8-8933-481b2015d83f)
 
 ## Day 6 Explained: https://youtu.be/gZ5cxJ2i-94?si=wOSYnuGj94yBAaBm
+
+## Day 7 - Bridge Repair
+![day_7_yt](https://github.com/user-attachments/assets/fc7b2bdb-69dd-42bd-8291-e232331cecfc)
+
+## Day 7 Explained: https://youtu.be/nZkSBvFBCgg 
