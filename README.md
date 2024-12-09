@@ -53,3 +53,8 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ![day_7_yt](https://github.com/user-attachments/assets/fc7b2bdb-69dd-42bd-8291-e232331cecfc)
 
 ## Day 7 Explained: https://youtu.be/nZkSBvFBCgg 
+
+## Day 8 - Resonant Collinearity
+![day_8_yt](https://github.com/user-attachments/assets/ffa9b3eb-03b1-4522-bf2d-5517180968d5)
+
+## Day 8 Explained: https://youtu.be/aaok9T-imn0
