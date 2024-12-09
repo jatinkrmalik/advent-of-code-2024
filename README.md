@@ -58,3 +58,8 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 ![day_8_yt](https://github.com/user-attachments/assets/ffa9b3eb-03b1-4522-bf2d-5517180968d5)
 
 ## Day 8 Explained: https://youtu.be/aaok9T-imn0
+
+## Day 8 - Disk Fragmenter
+![day_9_yt](https://github.com/user-attachments/assets/d18cc161-9d33-479c-afeb-0dac44c91edf)
+
+## Day 9 Explained: https://youtu.be/YSlr_caMNQA 
