@@ -59,7 +59,12 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 
 ## Day 8 Explained: https://youtu.be/aaok9T-imn0
 
-## Day 8 - Disk Fragmenter
+## Day 9 - Disk Fragmenter
 ![day_9_yt](https://github.com/user-attachments/assets/d18cc161-9d33-479c-afeb-0dac44c91edf)
 
 ## Day 9 Explained: https://youtu.be/YSlr_caMNQA 
+
+## Day 10 - Hoof It
+![day_10_yt](https://github.com/user-attachments/assets/e4240f1a-f7d6-450e-993b-f29941553bc8)
+
+## Day 10 Explained: https://youtu.be/nftEwBkSx_8?si=FxiLrWAZv5Zq-6RU
