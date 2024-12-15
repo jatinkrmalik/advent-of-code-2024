@@ -1,9 +1,15 @@
 import os
+import yaml
 from openai import OpenAI
 
 # Initialize the OpenAI client
 # Make sure to set the OPENAI_API_KEY environment variable
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    return config
 
 def generate_image(prompt, model="dall-e-3", size="1792x1024", quality="hd", n=1):
     """
@@ -35,15 +41,16 @@ def generate_image(prompt, model="dall-e-3", size="1792x1024", quality="hd", n=1
         return None
 
 if __name__ == "__main__":
-    prompts = [
-        "A colorful, vibrant arcade scene, slightly blurred in the background. In the foreground, on the left side, a detailed, realistic claw machine. The claw machine is brightly lit. Translucent mathematical equations and symbols are subtly overlaid on the claw machine and extend slightly into the background. The overall style is photorealistic with bright, contrasting colors.",
-        "A close-up view from inside a claw machine, looking up towards the claw. The claw is the central element. The background is a blur of colorful plush toys. Various mathematical symbols and equations float around the claw, rendered in a slightly glowing style.",
-        "An illustrated, cartoon-style image of a brightly colored claw machine with a playful, exaggerated design. The claw machine is positioned on the right side of the frame. To the left of the claw machine is a large, prominent question mark. The background is a solid, dark blue color. The image has a fun, engaging style."
-    ]
+    config = load_config('config.yaml')
+    prompts = config['prompts']
+    model = config.get('model', 'dall-e-3')
+    size = config.get('size', '1792x1024')
+    quality = config.get('quality', 'hd')
+    n = config.get('n', 1)
 
     for i, prompt in enumerate(prompts):
         print(f"Generating image {i+1}...")
-        image_urls = generate_image(prompt)
+        image_urls = generate_image(prompt, model=model, size=size, quality=quality, n=n)
 
         if image_urls:
             for j, url in enumerate(image_urls):
