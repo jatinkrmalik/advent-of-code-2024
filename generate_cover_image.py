@@ -1,5 +1,6 @@
 import os
 import yaml
+import requests
 from openai import OpenAI
 
 # Initialize the OpenAI client
@@ -47,6 +48,8 @@ if __name__ == "__main__":
     size = config.get('size', '1792x1024')
     quality = config.get('quality', 'hd')
     n = config.get('n', 1)
+    if not os.path.exists('./gen-images'):
+        os.makedirs('./gen-images')
 
     for i, prompt in enumerate(prompts):
         print(f"Generating image {i+1}...")
@@ -55,7 +58,11 @@ if __name__ == "__main__":
         if image_urls:
             for j, url in enumerate(image_urls):
                 print(f"  Image {i+1}-{j+1} URL: {url}")
-                # Display the image in an IPython environment (like Jupyter Notebook)
-                # display(Image(url=url))
+                response = requests.get(url)
+                if response.status_code == 200:
+                    with open(f'./gen-images/image_{i+1}_{j+1}.png', 'wb') as f:
+                        f.write(response.content)
+                else:
+                    print(f"Failed to download image {i+1}-{j+1}.")
         else:
             print(f"Failed to generate image {i+1}.")

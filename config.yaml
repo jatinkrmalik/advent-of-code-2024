@@ -1,8 +1,6 @@
-prompts:
-  - "A colorful, vibrant arcade scene, slightly blurred in the background. In the foreground, on the left side, a detailed, realistic claw machine. The claw machine is brightly lit. Translucent mathematical equations and symbols are subtly overlaid on the claw machine and extend slightly into the background. The overall style is photorealistic with bright, contrasting colors."
-  - "A close-up view from inside a claw machine, looking up towards the claw. The claw is the central element. The background is a blur of colorful plush toys. Various mathematical symbols and equations float around the claw, rendered in a slightly glowing style."
-  - "An illustrated, cartoon-style image of a brightly colored claw machine with a playful, exaggerated design. The claw machine is positioned on the right side of the frame. To the left of the claw machine is a large, prominent question mark. The background is a solid, dark blue color. The image has a fun, engaging style."
 model: "dall-e-3"
 size: "1792x1024"
 quality: "hd"
 n: 1
+prompts:
+- <insert prompt here>
