@@ -18,53 +18,41 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 
 ---
 
-# Day 1 - Historian Hysteria
-![Day_1_thumbnail](https://github.com/user-attachments/assets/ef9e456c-dde6-47aa-a78a-41fb48969e59)
-
-## Day 1 Explained: https://youtu.be/_OrzGbGDNak
-
-
-# Day 2 - Red-Nosed Reports
-![day_2_thumbnail](https://github.com/user-attachments/assets/ea525d21-e24b-4265-9471-0d36b54bda4f)
-
-## Day 2 Explained: https://youtu.be/djOQswLN7rg
-
-# Day 3 - Mull It Over
-![day-3](https://github.com/user-attachments/assets/d8baf007-3922-46ba-9a46-694244e312e3)
-
-## Day 3 Explained: https://youtu.be/a5DIpXV85P4
-
-## Day 4 - Ceres Search
-![day-4](https://github.com/user-attachments/assets/da76e45d-413b-4099-b43b-ced17053938a)
-
-## Day 4 Explained: https://youtu.be/NzhvJ0O70yY
-
-## Day 5 - Print Queue
-![day_5_a](https://github.com/user-attachments/assets/311be4c8-f2e2-4b25-806c-0a70a563d969)
-
-## Day 5 Explained: https://youtu.be/61tAT5Xi4Zg?si=VAPLxk9pNxKuqvqr
-
-## Day 6 - Guard Gallivant
-![yt-day-6B (Large)](https://github.com/user-attachments/assets/34e84945-26b0-4ea8-8933-481b2015d83f)
-
-## Day 6 Explained: https://youtu.be/gZ5cxJ2i-94?si=wOSYnuGj94yBAaBm
-
-## Day 7 - Bridge Repair
-![day_7_yt](https://github.com/user-attachments/assets/fc7b2bdb-69dd-42bd-8291-e232331cecfc)
-
-## Day 7 Explained: https://youtu.be/nZkSBvFBCgg 
-
-## Day 8 - Resonant Collinearity
-![day_8_yt](https://github.com/user-attachments/assets/ffa9b3eb-03b1-4522-bf2d-5517180968d5)
-
-## Day 8 Explained: https://youtu.be/aaok9T-imn0
-
-## Day 9 - Disk Fragmenter
-![day_9_yt](https://github.com/user-attachments/assets/d18cc161-9d33-479c-afeb-0dac44c91edf)
-
-## Day 9 Explained: https://youtu.be/YSlr_caMNQA 
-
-## Day 10 - Hoof It
-![day_10_yt](https://github.com/user-attachments/assets/e4240f1a-f7d6-450e-993b-f29941553bc8)
-
-## Day 10 Explained: https://youtu.be/nftEwBkSx_8?si=FxiLrWAZv5Zq-6RU
+# Day 19: Can Your Algorithm Solve This TOWEL Chaos? | Linen Layout
+[![Watch the video](https://img.youtube.com/vi/HFUZ4k541VY/maxresdefault.jpg)](https://www.youtube.com/watch?v=HFUZ4k541VY)
+# Day 18: The Byte That BROKE the Path! | RAM Run
+[![Watch the video](https://img.youtube.com/vi/DQHr7HjCEmw/maxresdefault.jpg)](https://www.youtube.com/watch?v=DQHr7HjCEmw)
+# Day 17: We Built a 3-Bit Computer That COPIES ITSELF! | Chronospatial Computer
+[![Watch the video](https://img.youtube.com/vi/aL8XtJ5OnEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=aL8XtJ5OnEA)
+# Day 16: Reindeer Maze | The ONE Trick to Solve this FAST!
+[![Watch the video](https://img.youtube.com/vi/TJYKHBnYwmA/maxresdefault.jpg)](https://www.youtube.com/watch?v=TJYKHBnYwmA)
+# Day 15: Warehouse Robot Gone Wild! | Warehouse Woes
+[![Watch the video](https://img.youtube.com/vi/f4zF01XoxeA/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4zF01XoxeA)
+# Day 14: The HARDEST Puzzle Yet? | Restroom Redoubt
+[![Watch the video](https://img.youtube.com/vi/0Z7JKuqX10U/maxresdefault.jpg)](https://www.youtube.com/watch?v=0Z7JKuqX10U)
+# Day:13 | Claw Machine Puzzle: Can Math Save My Tokens?
+[![Watch the video](https://img.youtube.com/vi/LsasY_RHc0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=LsasY_RHc0w)
+# Day 12: Garden Groups | Fencing the Mystical Gardens
+[![Watch the video](https://img.youtube.com/vi/0qfJrhEr8BU/maxresdefault.jpg)](https://www.youtube.com/watch?v=0qfJrhEr8BU)
+# Day 11: Unravel the Mystery of Plutonian Pebbles | Crack Mind-Bending Puzzle
+[![Watch the video](https://img.youtube.com/vi/rGXw1IAATRs/maxresdefault.jpg)](https://www.youtube.com/watch?v=rGXw1IAATRs)
+# Day 10: Hoof It 
+[![Watch the video](https://img.youtube.com/vi/nftEwBkSx_8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nftEwBkSx_8)
+# Day 9: Disk Fragmenter 
+[![Watch the video](https://img.youtube.com/vi/YSlr_caMNQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=YSlr_caMNQA)
+# Day 8 - Resonant Collinearity
+[![Watch the video](https://img.youtube.com/vi/aaok9T-imn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=aaok9T-imn0)
+# Day 7: Bridge Repair 
+[![Watch the video](https://img.youtube.com/vi/nZkSBvFBCgg/maxresdefault.jpg)](https://www.youtube.com/watch?v=nZkSBvFBCgg)
+# Day 6 - Guard Gallivant
+[![Watch the video](https://img.youtube.com/vi/gZ5cxJ2i-94/maxresdefault.jpg)](https://www.youtube.com/watch?v=gZ5cxJ2i-94)
+# Day 5: Print Queue 
+[![Watch the video](https://img.youtube.com/vi/61tAT5Xi4Zg/maxresdefault.jpg)](https://www.youtube.com/watch?v=61tAT5Xi4Zg)
+# Day 4: Ceres Search
+[![Watch the video](https://img.youtube.com/vi/NzhvJ0O70yY/maxresdefault.jpg)](https://www.youtube.com/watch?v=NzhvJ0O70yY)
+# Day 3: Mull It Over 
+[![Watch the video](https://img.youtube.com/vi/a5DIpXV85P4/maxresdefault.jpg)](https://www.youtube.com/watch?v=a5DIpXV85P4)
+# Day 2: Red-Nosed Reports 
+[![Watch the video](https://img.youtube.com/vi/djOQswLN7rg/maxresdefault.jpg)](https://www.youtube.com/watch?v=djOQswLN7rg)
+# Day 1: Historian Hysteria 
+[![Watch the video](https://img.youtube.com/vi/_OrzGbGDNak/maxresdefault.jpg)](https://www.youtube.com/watch?v=_OrzGbGDNak)
