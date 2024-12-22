@@ -1,3 +1,5 @@
 gen-images/ # temp dir to generate some of the amazing cover arts for my videos using DALLE-3
 config.yaml # configuration for generate_cover_image.py, don't want to pollute the repo with my prompts.
 **/input.txt # as per rules: https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/ 
+input.txt
+gen-images
