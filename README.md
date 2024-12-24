@@ -17,7 +17,10 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 2. [Subscribe to stay updated](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po) and collect all 50 stars with me. 🎁
 
 ---
-
+# Day 21 🤯 INSANITY with 25 layers of Robots?! | Keypad Conundrum
+[![Watch the video](https://img.youtube.com/vi/d-xbiFpWvX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=d-xbiFpWvX0)
+# Day 20: Race Condition🚦Pathfinding through the walls!!
+[![Watch the video](https://img.youtube.com/vi/ND_5UKar1ew/maxresdefault.jpg)](https://www.youtube.com/watch?v=ND_5UKar1ew)
 # Day 19: Can Your Algorithm Solve This TOWEL Chaos? | Linen Layout
 [![Watch the video](https://img.youtube.com/vi/HFUZ4k541VY/maxresdefault.jpg)](https://www.youtube.com/watch?v=HFUZ4k541VY)
 # Day 18: The Byte That BROKE the Path! | RAM Run
