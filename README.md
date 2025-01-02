@@ -17,6 +17,14 @@ Whether you're here to learn, practice, or simply enjoy the thrill of problem-so
 2. [Subscribe to stay updated](https://youtube.com/playlist?list=PL33VRicG3dcV9JRdzmfYDttlpkc_jmvMc&si=8ZVQhuJHwwyKg2Po) and collect all 50 stars with me. 🎁
 
 ---
+# DAY 25: CODE CHRONICLE CONQUERED 🎅 Grand Finale 
+[![Watch the video](https://img.youtube.com/vi/BZ_5KzkudkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=BZ_5KzkudkA)
+# DAY 24: Think you can UNTANGLE this? | Crossed Wires
+[![Watch the video](https://img.youtube.com/vi/sQTMdIUCDkY/maxresdefault.jpg)](https://www.youtube.com/watch?v=sQTMdIUCDkY)
+# DAY 23: Unmasking the Secret LAN Party! 🤐 
+[![Watch the video](https://img.youtube.com/vi/LryilExC3_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=LryilExC3_k)
+# DAY 22: Decoding Monkey Prices for MAX PROFIT! | Monkey Market 
+[![Watch the video](https://img.youtube.com/vi/wf74e8G4uAg/maxresdefault.jpg)](https://www.youtube.com/watch?v=wf74e8G4uAg)
 # Day 21 🤯 INSANITY with 25 layers of Robots?! | Keypad Conundrum
 [![Watch the video](https://img.youtube.com/vi/d-xbiFpWvX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=d-xbiFpWvX0)
 # Day 20: Race Condition🚦Pathfinding through the walls!!
